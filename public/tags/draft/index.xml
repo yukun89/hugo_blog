@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Draft - 标签 - 后端开发笔记</title>
+    <link>http://localhost:1313/tags/draft/</link>
+    <description>后端开发笔记</description>
+    <generator>Hugo 0.156.0 &amp; FixIt v0.4.3-20260130042349-e23a50d7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 22 Feb 2026 18:29:43 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/draft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Report Your Work</title>
+      <link>http://localhost:1313/posts/e151f40/</link>
+      <pubDate>Sun, 22 Feb 2026 18:29:43 +0800</pubDate>
+      <guid>http://localhost:1313/posts/e151f40/</guid>
+      <category domain="http://localhost:1313/categories/draft/">Draft</category>
+      <description>How to Report Your Work</description>
+    </item>
+  </channel>
+</rss>

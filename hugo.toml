@@ -1,0 +1,9 @@
+baseURL = 'https://yourname.com' # 以后换成你的个人域名
+languageCode = 'zh-cn'
+title = '后端开发笔记'
+theme = 'FixIt'
+
+[params]
+  # FixIt 主题特有配置，开启暗黑模式切换
+  defaultTheme = 'auto'
+
