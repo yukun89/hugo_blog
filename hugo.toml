@@ -1,4 +1,4 @@
-baseURL = 'https://yourname.com' # 以后换成你的个人域名
+baseURL = 'https://www.goyukun.com' # 以后换成你的个人域名
 languageCode = 'zh-cn'
 title = '后端开发笔记'
 theme = 'FixIt'
@@ -6,4 +6,30 @@ theme = 'FixIt'
 [params]
   # FixIt 主题特有配置，开启暗黑模式切换
   defaultTheme = 'auto'
+
+[params.section.code]
+  # 开启代码块一键复制
+  copy = true
+  # 超过 20 行自动折叠（写长算法或 C++ 源码分析时非常有用）
+  maxLines = 20
+  # 显示代码行号
+  lineNos = true
+  # 标题栏显示语言名称（Go/C++）
+  showTitle = true
+
+[params.mermaid]
+  enable = true
+
+[params.home.profile]
+  enable = true
+  avatarURL = "/images/avatar.png" # 放一个极客头像
+  title = "GoYukun"
+  # 这里写你的技术标签
+  subtitle = "Backend Engineer | C++ & Golang Expert | Concurrency Enthusiast"
+  social = true # 开启底部的 GitHub 链接
+
+[params.search]
+  enable = true
+  type = "fuse"
+  contentLength = 4000 # 搜索预览长度
 
